@@ -64,4 +64,4 @@ Pastikan Anda telah menginstal:
 
 ---
 
-### Dikembangkan oleh: **[zfernm](https://github.com/zfernm)**
+### Dikembangkan oleh: **[zfernm](https://www.linkedin.com/in/samuel-hamonangan-s-099604255/)**
